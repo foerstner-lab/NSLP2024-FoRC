@@ -1,0 +1,8 @@
+# SPDX-FileCopyrightText: 2024 ZB MED - Information Centre for Life Sciences
+# SPDX-FileCopyrightText: 2024 Benjamin Wolff
+#
+# SPDX-License-Identifier: CC0-1.0
+
+flake8
+black[jupyter]
+reuse
