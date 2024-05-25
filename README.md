@@ -14,7 +14,7 @@ shared task within the [NSLP2024](https://nfdi4ds.github.io/nslp2024/docs/forc_s
 
 ## Datasets
 The datasets were provided by the challenge hosts under a CC-BY-4.0 license. The original datasets can be downloaded from Zenodo:
-- [Validation dataset](https://zenodo.org/records/10438530)
+- [Training and Validation datasets](https://zenodo.org/records/10438530)
 - [Testing dataset](https://zenodo.org/records/10469550)
 
 Based on the original dataset, we provide a cleaned and slightly preprocessed dataset (with and without additional enrichments).
